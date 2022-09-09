@@ -1,0 +1,31 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body{
+ 
+  background-color: bisque;
+}
+
+h1{
+  position: absolute;
+  margin-top: 20px;
+  font: caption;
+  font-size: 10em;
+  color: blue;
+  left: 25%;
+}
+
+button{
+  position: absolute;
+  margin-top: 300px;
+  font-size: 5em;
+  color: rgb(59, 90, 87);
+  left: 39%;
+  border-radius: 5px;
+}
+
+span{
+  color: crimson;
+}
